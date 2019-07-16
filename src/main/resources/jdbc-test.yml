@@ -1,4 +1,4 @@
 jdbc:
    jdbcUrl: jdbc:mysql://192.168.1.166:3306/PAYMENT
-   username: test5
+   username: test6
    password: 123456
